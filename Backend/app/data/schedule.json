@@ -1,0 +1,18 @@
+[
+  {
+    "id": "a00a8013-e5e3-44c7-859e-7f47a8f70bc5",
+    "employeeId": "emp-001",
+    "jobId": "job-001",
+    "startTime": "2026-07-20T08:00:00+00:00",
+    "endTime": "2026-07-20T12:00:00+00:00",
+    "status": "assigned"
+  },
+  {
+    "id": "54ebfcd9-71e3-417f-9e89-6861e09c181f",
+    "employeeId": "emp-003",
+    "jobId": "job-003",
+    "startTime": "2026-07-20T16:00:00+00:00",
+    "endTime": "2026-07-20T20:00:00+00:00",
+    "status": "assigned"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"id": "emp-001", "name": "Aarav Singh", "role": "TCP", "availability": true},
+  {"id": "emp-002", "name": "Meera Patel", "role": "LCT", "availability": true},
+  {"id": "emp-003", "name": "Rohan Kumar", "role": "Supervisor", "availability": true},
+  {"id": "emp-004", "name": "Priya Shah", "role": "TCP", "availability": false},
+  {"id": "emp-005", "name": "Kabir Verma", "role": "LCT", "availability": true}
+]

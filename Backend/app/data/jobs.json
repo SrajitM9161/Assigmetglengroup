@@ -1,0 +1,6 @@
+[
+  {"id": "job-001", "name": "Morning Traffic Control", "startTime": "2026-07-20T08:00:00+00:00", "endTime": "2026-07-20T12:00:00+00:00", "requiredRole": "TCP"},
+  {"id": "job-002", "name": "Afternoon Lane Closure", "startTime": "2026-07-20T12:00:00+00:00", "endTime": "2026-07-20T16:00:00+00:00", "requiredRole": "LCT"},
+  {"id": "job-003", "name": "Evening Site Supervision", "startTime": "2026-07-20T16:00:00+00:00", "endTime": "2026-07-20T20:00:00+00:00", "requiredRole": "Supervisor"},
+  {"id": "job-004", "name": "Overlapping Test Job", "startTime": "2026-07-20T10:00:00+00:00", "endTime": "2026-07-20T14:00:00+00:00", "requiredRole": "TCP"}
+]

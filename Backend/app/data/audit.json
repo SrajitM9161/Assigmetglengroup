@@ -1,0 +1,24 @@
+[
+  {
+    "id": "37e9d5c2-3413-495a-8c47-c83c0563266f",
+    "eventType": "ASSIGNMENT_CREATED",
+    "entityId": "a00a8013-e5e3-44c7-859e-7f47a8f70bc5",
+    "occurredAt": "2026-07-17T19:28:45.550555+00:00",
+    "metadata": {
+      "employeeId": "emp-001",
+      "jobId": "job-001",
+      "status": "assigned"
+    }
+  },
+  {
+    "id": "21f58a6f-c344-4767-b9e9-fa90645a07b0",
+    "eventType": "ASSIGNMENT_CREATED",
+    "entityId": "54ebfcd9-71e3-417f-9e89-6861e09c181f",
+    "occurredAt": "2026-07-17T20:05:46.502849+00:00",
+    "metadata": {
+      "employeeId": "emp-003",
+      "jobId": "job-003",
+      "status": "assigned"
+    }
+  }
+]
