@@ -6,7 +6,6 @@ from errors import ApiError
 
 
 def mock_role_required(*allowed_roles):
-    """Assignment-only mock RBAC; real identity/authentication is out of scope."""
     allowed = {role.lower() for role in allowed_roles}
 
     def decorator(view):

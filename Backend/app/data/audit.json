@@ -20,5 +20,16 @@
       "jobId": "job-003",
       "status": "assigned"
     }
+  },
+  {
+    "id": "02310d4b-38d4-42f4-91c2-0b5be2553ec7",
+    "eventType": "ASSIGNMENT_CREATED",
+    "entityId": "6dd944a1-d0a6-4fa4-921c-9379c704bfc5",
+    "occurredAt": "2026-07-17T23:52:29.818623+00:00",
+    "metadata": {
+      "employeeId": "emp-002",
+      "jobId": "job-002",
+      "status": "assigned"
+    }
   }
 ]

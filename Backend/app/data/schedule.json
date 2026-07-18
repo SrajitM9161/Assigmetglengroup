@@ -14,5 +14,13 @@
     "startTime": "2026-07-20T16:00:00+00:00",
     "endTime": "2026-07-20T20:00:00+00:00",
     "status": "assigned"
+  },
+  {
+    "id": "6dd944a1-d0a6-4fa4-921c-9379c704bfc5",
+    "employeeId": "emp-002",
+    "jobId": "job-002",
+    "startTime": "2026-07-20T12:00:00+00:00",
+    "endTime": "2026-07-20T16:00:00+00:00",
+    "status": "assigned"
   }
 ]

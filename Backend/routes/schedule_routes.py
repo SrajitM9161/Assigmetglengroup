@@ -7,7 +7,6 @@ def create_schedule_blueprint(controller):
     read_schedule = mock_role_required("admin", "scheduler", "employee")(controller.list)
     create_assignment = mock_role_required("admin", "scheduler")(controller.create)
     delete_assignment = mock_role_required("admin", "scheduler")(controller.delete)
-    # PRD endpoints plus descriptive aliases for frontend readability.
     blueprint.get("/schedule")(read_schedule)
     blueprint.get("/api/schedule")(read_schedule)
     blueprint.get("/api/assignments")(read_schedule)
