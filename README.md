@@ -74,7 +74,6 @@ cd Backend
 python -m unittest discover -s tests
 ```
 
-The Postman collection is available at `Backend/Mini_Scheduling_System.postman_collection.json`.
 
 ## Notes
 
